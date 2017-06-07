@@ -108,5 +108,5 @@ public class PersonalDetails
 				+ ", website=" + website + ", companyname=" + companyname + ", landlineno=" + landlineno + "]";
 	}
 	
-}
+} // end of the class
 
